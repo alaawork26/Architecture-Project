@@ -1,2 +1,2 @@
 # Architecture-Project
-Logic Circuit &amp; Boolean Algebra Minimizer - java
+Logic Circuit Boolean Algebra Minimizer - java
